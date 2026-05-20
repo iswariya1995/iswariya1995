@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Sahaya Iswariya Lijoni 👋
 
-<!--
-**iswariya1995/iswariya1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AWS Certified DevOps & Cloud Engineer | Dubai, UAE
 
-Here are some ideas to get you started:
+I'm a cloud and DevOps engineer passionate about building automated, 
+scalable infrastructure on AWS. I specialise in CI/CD pipelines, 
+containerisation, Infrastructure as Code, and serverless architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏅 Certifications
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|---|---|
+| Cloud | AWS (EC2, S3, Lambda, RDS, VPC, IAM, Route53) |
+| DevOps & CI/CD | CodePipeline, CodeBuild, CodeDeploy, Jenkins, GitHub |
+| Containers | Docker, Docker Compose, Kubernetes |
+| IaC | Terraform, CloudFormation |
+| Monitoring | CloudWatch, Prometheus, Grafana, Splunk |
+| Scripting | Bash, PowerShell, YAML, AWS CLI |
+| OS | Linux (Ubuntu, Amazon Linux), Windows |
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Serverless Data Ingestion Pipeline
+Event-driven pipeline using AWS Lambda, S3, RDS, SNS, and CloudWatch.
+Automated infrastructure provisioned with Terraform.
+[View Project →](https://github.com/iswariya1995/Serverless-Data-Ingestion-Pipeline-AWS)
+
+### 🔹 End-to-End CI/CD Pipeline on AWS
+Fully automated build and deployment pipeline using CodePipeline, 
+CodeBuild, CodeDeploy, and GitHub integration.
+[View Project →](https://github.com/iswariya1995/End-to-End-CI-CD-Pipeline-Setup-on-AWS-for-Application-Deployment)
+
+### 🔹 Containerised App Deployment with Docker & Kubernetes
+Deployed containerised applications using Docker Compose and 
+Kubernetes cluster management.
+[View Project →](https://github.com/iswariya1995/Iswariya.aws.devops)
+
+### 🔹 Automated Cloud Backup (EFS to S3)
+Automated backup architecture using Lambda and EventBridge with 
+lifecycle policies for cost optimisation.
+[View Project →](https://github.com/iswariya1995/Cloud-File-Backup-Automation-using-AWS)
+
+---
+
+## 📫 Contact
+- 📧 Alvinaishu17@gmail.com
+- 📍 Dubai, UAE
+- 💼 Open to Junior DevOps / Cloud Engineer roles
