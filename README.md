@@ -55,4 +55,5 @@ lifecycle policies for cost optimisation.
 ## 📫 Contact
 - 📧 Alvinaishu17@gmail.com
 - 📍 Dubai, UAE
-- 💼 Open to Junior DevOps / Cloud Engineer roles
+- 💼 linkedin.com/in/sahaya-iswariya
+- 💻 Open to Junior DevOps / Cloud Engineer roles
